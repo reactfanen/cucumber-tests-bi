@@ -1,0 +1,13 @@
+{
+	"name": "bi-calendar-cucumber-tests",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"test": "cucumber-js",
+		"cucumber": "cucumber-js"
+	},
+	"devDependencies": {
+		"@cucumber/cucumber": "^11.0.0",
+		"chai": "^5.1.0"
+	}
+}
